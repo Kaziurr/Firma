@@ -1,0 +1,12 @@
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\bin\Debug\Firma_schemat.exe.config
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\bin\Debug\Firma_schemat.exe
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\bin\Debug\Firma_schemat.pdb
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\obj\Debug\Firma_schemat.csproj.AssemblyReference.cache
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\obj\Debug\Firma_schemat.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\obj\Debug\Firma_schemat.Form1.resources
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\obj\Debug\Firma_schemat.Form2.resources
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\obj\Debug\Firma_schemat.Properties.Resources.resources
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\obj\Debug\Firma_schemat.csproj.GenerateResource.cache
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\obj\Debug\Firma_schemat.csproj.CoreCompileInputs.cache
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\obj\Debug\Firma_schemat.exe
+C:\Users\kazirodek.bartlomiej\source\repos\Firma_schemat\Firma_schemat\obj\Debug\Firma_schemat.pdb
